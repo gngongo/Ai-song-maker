@@ -1,0 +1,6 @@
+{
+  "name": "Studio AI",
+  "description": "A professional creative suite for AI-powered content creation: chat, image generation, video production, and music composition.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
